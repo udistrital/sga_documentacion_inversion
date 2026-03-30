@@ -15,6 +15,7 @@ Se requiere realizar el
 
 **Criterios de aceptación**
 
+- [ ]
 - [ ] Documentación realizada
 
 **Requerimientos**
